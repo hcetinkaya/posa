@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionInterfaceDemo", "ExtensionInterfaceDemo\ExtensionInterfaceDemo.csproj", "{2DFC5E0B-2D55-4047-96FD-ADC6A1791369}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DFC5E0B-2D55-4047-96FD-ADC6A1791369}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DFC5E0B-2D55-4047-96FD-ADC6A1791369}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DFC5E0B-2D55-4047-96FD-ADC6A1791369}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DFC5E0B-2D55-4047-96FD-ADC6A1791369}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
